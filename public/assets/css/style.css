@@ -2,3 +2,20 @@ body {
   background-color: orange ;
   font-family: 'Lobster', cursive;
 }
+
+h1 {
+  font-size: 400%;
+  color: red;
+  text-shadow: 2px 2px 8px grey;
+}
+
+h2 { 
+  color:#993300;
+}
+
+.btn { 
+  -webkit-box-shadow: 2px 3px 5px 2px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    2px 3px 5px 2px #ccc;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         2px 3px 5px 2px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+  margin-left: 10px;
+}
