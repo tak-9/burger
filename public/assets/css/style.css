@@ -11,6 +11,7 @@ h1 {
 
 h2 { 
   color:#993300;
+  text-shadow: 2px 2px 8px grey;
 }
 
 .btn { 
