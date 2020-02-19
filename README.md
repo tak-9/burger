@@ -6,6 +6,7 @@ This is a burger tracker.
 Application has been deployed to herorku. 
 Access the following URL to open the web application.
 
+https://eat-da-burger-takuji.herokuapp.com/
 
 1. Enter a name of burger you want to order. 
 
